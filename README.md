@@ -32,6 +32,9 @@
 
 Aplicação para captura e report de bugs, issues de uma aplicação. Projeto desenvolvido durante a semana do Next Level Week Return na trilha Impulse. 
 
+### ✅ Demonstração
+<img src="https://github.com/gabriel-nt/nlw-return/blob/master/web/src/assets/home.png" />
+
 ### ⚙ Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
