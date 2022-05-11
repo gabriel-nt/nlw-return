@@ -30,7 +30,7 @@
 
 ### 💻 Projeto
 
-O Happy é uma aplicação que conecta pessoas à casas de acolhimento institucional para fazer o dia de muitas crianças mais feliz. Projeto desenvolvido durante a semana do Next Level Week 3ª Edição. 
+Aplicação para captura e report de bugs, issues de uma aplicação. Projeto desenvolvido durante a semana do Next Level Week Return na trilha Impulse. 
 
 ### ⚙ Pré-requisitos
 
