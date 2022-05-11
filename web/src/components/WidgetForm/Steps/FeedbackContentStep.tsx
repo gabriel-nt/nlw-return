@@ -30,7 +30,7 @@ export const FeedbackContentStep = ({
     setIsSendingFeedback(true);
 
     await api.post('/feedbacks', {
-      type: feedbackTypes,
+      type: feedbackType,
       comment,
       screenshot,
     });
